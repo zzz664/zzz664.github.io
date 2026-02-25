@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.183.1/build/three.module.js";
 
 const textContainer = document.querySelector(".text-container");
 let easeFactor = 0.02;
